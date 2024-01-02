@@ -1,0 +1,66 @@
+.image{
+    background-image: url('b2.jpg');
+    width: 100%;
+    height: 300px;
+    background-size: cover;
+}
+
+.first{
+    width: 20%;
+     padding: 3px;
+}
+.first img{
+    width: 100%;
+     height: 100%;
+}
+/* first section ends */
+
+.second{
+    background-color: rgb(35, 192, 192);
+     width: 40px; 
+     height: 30px; 
+     color: white;
+}
+
+/* seconds section ends */
+
+
+.box{
+    width: 20%; 
+    padding: 3px; 
+    margin-right: 40px; 
+    text-align: center;
+     background-color: beige; 
+     border-radius: 10px;
+}
+.butt{
+    background-color:aquamarine; 
+    color: white;
+     border: none;
+      padding: 6px 15px;
+       border-radius: 20px
+}
+
+
+.cont img
+
+.contact{
+    background-color: rgb(167, 147, 147); 
+    width: 500px;
+    height: 550px;
+    margin: auto;
+    padding: 0px; 
+    position: relative;
+    top: 20px; 
+    border-radius: 20px;
+}
+
+
+/* footer section */
+
+.foot{
+    background-color: rgb(61, 54, 119);
+     width: 100%; 
+     padding: 20px; 
+     text-align: center;
+}
